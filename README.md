@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Achraf&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Full%20Stack%20%26%20Game%20Dev&descAlignY=60&descSize=18" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Oracle+%E2%80%94+a+voice-first+AI+assistant;Full+Stack+Web+%26+Desktop+Development;JavaScript+%C2%B7+PHP+%C2%B7+C%23+%C2%B7+TypeScript;A+little+bit+silly.+A+lot+of+shipping." alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Achraf&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Full%20Stack%20%C2%B7%20Game%20Dev&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Oracle+%E2%80%94+a+voice-first+AI+assistant;Full+Stack+Web+and+Desktop+Development;JavaScript+%C2%B7+PHP+%C2%B7+C%23+%C2%B7+TypeScript;A+little+bit+silly.+A+lot+of+shipping." alt="Typing SVG"/>
 <br/>
 <img src="https://img.shields.io/badge/Software%20Development-Student%20%26%20Builder-6C3BF5?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-7C3AED?style=flat-square&logo=probot&logoColor=white"/>
@@ -165,7 +165,7 @@ Hands-On Production Experience
 
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Schoenveter21&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&count_private=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Schoenveter21&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Schoenveter21&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
 <br/><br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schoenveter21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
