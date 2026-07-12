@@ -232,7 +232,7 @@ Building and shipping software across web, desktop, and AI — for clients and s
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Schoenveter21&theme=discord&no-frame=true&no-bg=true&column=7&title_color=8B5CF6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Schoenveter21&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
