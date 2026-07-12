@@ -1,10 +1,15 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Achraf&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Full%20Stack%20%C2%B7%20Game%20Dev&descAlignY=60&descSize=18" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&height=45&lines=Building+Oracle+%E2%80%94+a+voice-first+AI+assistant;Full+Stack+Web+and+Desktop+Development;JavaScript+%C2%B7+PHP+%C2%B7+C%23+%C2%B7+TypeScript;A+little+bit+silly.+A+lot+of+shipping." alt="Typing SVG"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Software%20Development-Student%20%26%20Builder-6C3BF5?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-7C3AED?style=flat-square&logo=probot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Netherlands-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+
 <br/><br/>
 
 <a href="https://mijn-portofolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -17,27 +22,26 @@
 <img src="https://komarev.com/ghpvc/?username=Schoenveter21&style=flat-square&color=8B5CF6&label=Profile+Views"/>
 <img src="https://img.shields.io/github/followers/Schoenveter21?style=flat-square&color=7C3AED&labelColor=1a1b27&label=Followers&logo=github"/>
 <img src="https://img.shields.io/github/stars/Schoenveter21?style=flat-square&color=6366F1&labelColor=1a1b27&label=Stars&logo=github"/>
+
 </div>
 
-🧑‍💻 About Me
+---
 
-Software developer from the Netherlands building across the full stack — from AI-powered desktop applications to web platforms and Unity games. I like taking an idea all the way: design it, build it, deploy it, fix it at 2 AM.
+## 🧑‍💻 About Me
 
+Software developer from the Netherlands building across the full stack — from **AI-powered desktop applications** to **web platforms** and **Unity games**. I like taking an idea all the way: design it, build it, deploy it, fix it at 2 AM.
 
-🔭 Currently building Oracle — a voice-first desktop AI assistant with wake-word detection, ElevenLabs TTS, and Claude via AWS Bedrock
-🛠️ Actively developing Leenly — a marketplace platform for lending instead of buying
-🌐 Delivering real client work — frontend engineering on live production websites
-🎮 Game development background with Unity & C# — top-down shooters and gameplay prototypes
-💭 "little bit silly" — but the code compiles
+- 🔭 Currently building **Oracle** — a voice-first desktop AI assistant with wake-word detection, ElevenLabs TTS, and Claude via AWS Bedrock
+- 🛠️ Actively developing **Leenly** — a marketplace platform for lending instead of buying
+- 🌐 Delivering real client work — frontend engineering on live production websites
+- 🎮 Game development background with **Unity & C#** — top-down shooters and gameplay prototypes
+- 💭 *"little bit silly"* — but the code compiles
 
+> **Open To** → Software Development roles · Internships · Freelance web projects · Collaboration on AI & web tools
 
+---
 
-Open To → Software Development roles · Internships · Freelance web projects · Collaboration on AI & web tools
-
-
-
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 <h3>Languages</h3>
@@ -50,7 +54,9 @@ Open To → Software Development roles · Internships · Freelance web projects 
 <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,windows,vscode&perline=8"/>
 </div>
 
-🤖 AI Expertise
+---
+
+## 🤖 AI Expertise
 
 <div align="center">
 <table>
@@ -63,7 +69,9 @@ Open To → Software Development roles · Internships · Freelance web projects 
 </table>
 </div>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🎙️ Oracle — Voice-First Desktop AI Assistant</b></summary>
@@ -79,6 +87,7 @@ Open To → Software Development roles · Internships · Freelance web projects 
 </table>
 <p>Oracle combines always-on wake-word listening with Claude-powered reasoning and ElevenLabs speech synthesis in a polished Electron + Next.js interface. It goes beyond chat — executing OS-level actions and acting as a genuine hands-free computing layer.</p>
 </details>
+
 <details>
 <summary><b>🔄 Leenly — Lending Marketplace Platform</b></summary>
 <br/>
@@ -93,6 +102,7 @@ Open To → Software Development roles · Internships · Freelance web projects 
 </table>
 <p>Leenly rethinks the classic marketplace model for the circular economy: instead of selling items you rarely use, lend them out. Currently my most actively developed public project.</p>
 </details>
+
 <details>
 <summary><b>📊 Dashboard — PHP Admin Platform</b></summary>
 <br/>
@@ -107,6 +117,7 @@ Open To → Software Development roles · Internships · Freelance web projects 
 </table>
 <p>Classic server-side web engineering: PHP handling routing, data persistence, and rendering — the same fundamentals that power my Laravel and WordPress client work.</p>
 </details>
+
 <details>
 <summary><b>🎓 KDEXAMEN — ASP.NET Exam Project</b></summary>
 <br/>
@@ -121,6 +132,7 @@ Open To → Software Development roles · Internships · Freelance web projects 
 </table>
 <p>Built end-to-end under formal exam constraints — requirements analysis, implementation, and delivery on the Microsoft web stack.</p>
 </details>
+
 <details>
 <summary><b>🎮 Unity Game Development — Shooter Series</b></summary>
 <br/>
@@ -136,22 +148,23 @@ Open To → Software Development roles · Internships · Freelance web projects 
 <p>Game dev is where I learned real-time thinking: update loops, collision, player input, and state management — skills that transfer directly to building responsive desktop and web apps.</p>
 </details>
 
-💼 Experience
+---
+
+## 💼 Experience
 
 <table>
 <tr>
 <td>
-Full Stack Developer · Freelance & Client Work
+
+**Full Stack Developer** · *Freelance & Client Work*
 <br/><sub>2024 — Present</sub>
 
 Building and shipping software across web, desktop, and AI — for clients and self-directed products.
 
-
-Building Oracle, a voice-first desktop AI assistant integrating Claude (AWS Bedrock), ElevenLabs TTS, and OS-level automation
-Delivered production frontend work for Pegasus Pest Control — responsive fixes and scoped CSS on a live WordPress/Elementor site
-Built and deployed a decoupled React + Laravel portfolio platform across Vercel and Render, including CORS, SMTP, and environment configuration
-Developing Leenly, a lending-marketplace platform, alongside PHP dashboard and ASP.NET projects
-
+- Building **Oracle**, a voice-first desktop AI assistant integrating Claude (AWS Bedrock), ElevenLabs TTS, and OS-level automation
+- Delivered production frontend work for **Pegasus Pest Control** — responsive fixes and scoped CSS on a live WordPress/Elementor site
+- Built and deployed a decoupled **React + Laravel** portfolio platform across Vercel and Render, including CORS, SMTP, and environment configuration
+- Developing **Leenly**, a lending-marketplace platform, alongside PHP dashboard and ASP.NET projects
 
 <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/PHP-1a1b27?style=flat-square&logo=php&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/Laravel-1a1b27?style=flat-square&logo=laravel&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/C%23%20%2F%20Unity-1a1b27?style=flat-square&logo=unity&logoColor=8B5CF6"/> <img src="https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=8B5CF6"/>
 
@@ -159,7 +172,9 @@ Developing Leenly, a lending-marketplace platform, alongside PHP dashboard and A
 </tr>
 </table>
 
-🏆 Achievements
+---
+
+## 🏆 Achievements
 
 <div align="center">
 <table>
@@ -172,7 +187,9 @@ Developing Leenly, a lending-marketplace platform, alongside PHP dashboard and A
 </table>
 </div>
 
-📜 Platforms & Certifications
+---
+
+## 📜 Platforms & Certifications
 
 <div align="center">
 <h3>Hands-On Production Experience</h3>
@@ -182,44 +199,66 @@ Developing Leenly, a lending-marketplace platform, alongside PHP dashboard and A
 <img src="https://img.shields.io/badge/WordPress-Client%20Sites-6366F1?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div>
 
-⚔️ Coding Profiles
+---
+
+## ⚔️ Coding Profiles
 
 <div align="center">
+
 <a href="https://github.com/Schoenveter21?tab=repositories"><img src="https://img.shields.io/badge/GitHub-8%20Public%20Repos-6C3BF5?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/></a>
 <a href="https://github.com/Schoenveter21/Leenly"><img src="https://img.shields.io/badge/Active%20Project-Leenly-7C3AED?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1b27"/></a>
 <a href="https://github.com/Schoenveter21?tab=stars"><img src="https://img.shields.io/badge/Starred-Collections-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/></a>
 
 </div>
 
-📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Schoenveter21&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats-three-roan-54.vercel.app/api?username=Schoenveter21&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&count_private=true"/>
 <img height="180" src="https://streak-stats.demolab.com/?user=Schoenveter21&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schoenveter21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
+<img height="180" src="https://github-readme-stats-three-roan-54.vercel.app/api/top-langs/?username=Schoenveter21&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
+
 </div>
 
-🏅 GitHub Trophies
+---
+
+## 🏅 GitHub Trophies
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Schoenveter21&theme=discord&no-frame=true&no-bg=true&column=7&title_color=8B5CF6"/>
+
 </div>
 
-📈 Contribution Activity
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Schoenveter21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=6366F1&area=true&area_color=6C3BF5" width="100%"/>
+
 </div>
 
-🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Schoenveter21/Schoenveter21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 </div>
 
-🎯 Current Focus
+---
+
+## 🎯 Current Focus
 
 <pre>
 <b>learning:</b>
@@ -242,9 +281,12 @@ Developing Leenly, a lending-marketplace platform, alongside PHP dashboard and A
   - Collaboration on AI &amp; web tools
 </pre>
 
-🤝 Connect
+---
+
+## 🤝 Connect
 
 <div align="center">
+
 <a href="mailto:elmojahid825@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-6C3BF5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/></a>
 <a href="https://www.linkedin.com/in/achraf-el-mojahid-102b442b9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/></a>
 <a href="https://github.com/Schoenveter21"><img src="https://img.shields.io/badge/GitHub-%40Schoenveter21-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/></a>
@@ -252,8 +294,12 @@ Developing Leenly, a lending-marketplace platform, alongside PHP dashboard and A
 
 </div>
 
+---
+
 <div align="center">
+
 <i>"Ship it silly, ship it working — the code compiles either way."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+
 </div>
